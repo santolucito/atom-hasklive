@@ -3,17 +3,17 @@
 This will be an way to do live coding in haskell. The editor should look like this. See bret viktor's demos in  'inventing on principle' for examples of this.
 
 
-=======================
-|          |          | 
-|   INPUT  |  OUPUT   |
-|          |          |
------------------------
-|                     |
-|                     |
-|        CODE         | 
-|                     |
-|                     |
-=======================
+    =======================
+    |          |          | 
+    |   INPUT  |  OUPUT   |
+    |          |          |
+    -----------------------
+    |                     |
+    |                     |
+    |        CODE         | 
+    |                     |
+    |                     |
+    =======================
 
 ## Setup
 
