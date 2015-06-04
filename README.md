@@ -1,9 +1,24 @@
-# Tidal for Atom
+# Hasklive for Atom
 
-[tidal](https://github.com/tidalcycles/Tidal) is a live-coding pattern language
+This will be an way to do live coding in haskell. The editor should look like this. See bret viktor's demos in  'inventing on principle' for examples of this.
 
+
+=======================
+|          |          | 
+|   INPUT  |  OUPUT   |
+|          |          |
+-----------------------
+|                     |
+|                     |
+|        CODE         | 
+|                     |
+|                     |
+=======================
 
 ## Setup
+
+We are using [atom-tidal](https://github.com/seansay/atom-tidal), an existing atom extension, as a starting point.
+We want to get rid of all tidal and dirt dependencies. The code of key interest to us is in the 'lib' directory. To test the current version you need the following instructions.
 
 1. [Install Tidal](https://github.com/tidalcycles/Tidal/blob/master/doc/tidal.md#installation)
 
