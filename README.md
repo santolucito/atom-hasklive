@@ -1,4 +1,4 @@
-Hi my name is akshar. I will attempt to do something to this.
+Hi my name is Akshar. I am going to be working on integrating a word counter into this file. If done correctly, the command control-alt-o should trigger a window to appear at the top of the editor displaying a total count of words in the code.
 
 
 # Hasklive for Atom
