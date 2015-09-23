@@ -1,4 +1,7 @@
-Hi my name is Akshar. I am going to be working on integrating a word counter into this file. If done correctly, the command control-alt-o should trigger a window to appear at the top of the editor displaying a total count of words in the code.
+1. Hi my name is Akshar. I am going to be working on integrating a word counter into this file. If done correctly, the command control-alt-o should trigger a window to appear at the top of the editor displaying a total count of words in the code.  
+Task completed - install package and toggle
+2. If a function called main is defined, then a certain package can be toggled and the output will be displayed at the top in a message box.
+Task completed- install package and toggle when on file with main function
 
 
 # Hasklive for Atom
